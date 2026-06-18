@@ -1,6 +1,6 @@
 import { MusicPlayer } from "./components/MusicPlayer";
 import { AllSongs } from "./components/AllSongs";
-import { Playlists } from "./omponents/Playlists";
+import { Playlists } from "./components/Playlists";
 
 import { BrowserRouter, Routes, Route } from "react-router";
 import { MusicProvider } from "./contexts/MusicContext";
